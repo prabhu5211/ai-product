@@ -1,0 +1,14 @@
+{
+  "name": "ai-product-discovery",
+  "version": "1.0.0",
+  "description": "Full-stack product discovery with AI/LLM integration",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["ai", "llm", "openai", "react", "express", "product-discovery"],
+  "author": "",
+  "license": "MIT"
+}

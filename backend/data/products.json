@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Laptop Pro X1",
+    "category": "Electronics",
+    "price": 1499.99,
+    "description": "High-performance gaming laptop with RTX 4060, 16GB RAM, and 1TB SSD",
+    "tags": ["gaming", "laptop", "high-end", "nvidia"],
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Budget Office Laptop",
+    "category": "Electronics",
+    "price": 599.99,
+    "description": "Affordable laptop perfect for office work and browsing, 8GB RAM, 256GB SSD",
+    "tags": ["laptop", "budget", "office", "productivity"],
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Gaming Mouse",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "Ergonomic wireless mouse with RGB lighting and programmable buttons",
+    "tags": ["gaming", "mouse", "wireless", "rgb"],
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard RGB",
+    "category": "Accessories",
+    "price": 129.99,
+    "description": "Premium mechanical keyboard with Cherry MX switches and customizable RGB",
+    "tags": ["keyboard", "mechanical", "gaming", "rgb"],
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "4K Monitor 27 inch",
+    "category": "Electronics",
+    "price": 399.99,
+    "description": "Ultra HD 4K monitor with HDR support, perfect for gaming and content creation",
+    "tags": ["monitor", "4k", "gaming", "display"],
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Noise-Cancelling Headphones",
+    "category": "Audio",
+    "price": 249.99,
+    "description": "Premium wireless headphones with active noise cancellation and 30-hour battery",
+    "tags": ["headphones", "wireless", "noise-cancelling", "audio"],
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "price": 119.99,
+    "description": "Fast portable SSD with USB-C, perfect for backups and file transfers",
+    "tags": ["storage", "ssd", "portable", "usb-c"],
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Webcam HD Pro",
+    "category": "Accessories",
+    "price": 89.99,
+    "description": "1080p webcam with auto-focus and built-in microphone for video calls",
+    "tags": ["webcam", "video", "streaming", "office"],
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400&h=300&fit=crop"
+  }
+]
